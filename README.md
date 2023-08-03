@@ -16,7 +16,7 @@ I code in c++. Also open sourced few web related stuff.
 ## Things I am passionate about
 
 - WebDevelopment :Mysocial:
-- Open source :octocat:
+- Open source :octocat
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -31,15 +31,15 @@ I code in c++. Also open sourced few web related stuff.
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ☁️ I've keen interest in cloud computing. So,I'm learning **C#**
 
 - 📝 I regularly write articles on [Hashnode](https://nishchaybhuker1.hashnode.dev)
 
-- 💬 Ask me about **AWS, react, php, android, java , nodejs, mongoDB**
+- 💬 Ask me about **GCP, react, C++, android, java , nodejs, mongoDB**
 
 - 📫 Feel free to reach me out **nishchaybhuker123@gmail.com**
 
-- 🏠 Also We've a tech community called [Dev Hac](https://discord.com/invite/p4TWyft886).
+- 🏠 Also We can connect on [Linkedin](https://www.linkedin.com/in/nishchay-bhuker-aba0831b8/)
 <!--Intro end-->
 
 
@@ -87,7 +87,7 @@ I code in c++. Also open sourced few web related stuff.
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,bootstrap,c,javaScript,python,css,docker,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,cpp,bootstrap,c,python,css,docker,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
   </a>
 </p>
 
@@ -105,7 +105,5 @@ I code in c++. Also open sourced few web related stuff.
 <a href="https://www.linkedin.com/in/nishchay-bhuker-aba0831b8/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 <a href="https://twitter.com/nishubhuker" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
 <a href="https://www.instagram.com/nishchaybhuker001/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://nishchaybhuker1.hashnode.dev" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
-<a href="https://discord.gg/UjwKkJsXsf" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-  
+<a href="https://nishchaybhuker1.hashnode.dev" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>  
 </p>
