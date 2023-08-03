@@ -13,10 +13,7 @@
   </ul>
 </div>
 
-## About me
-
-I'm Nishchay.
-
+## About me 
 I code in c++. Also open sourced few web related stuff.  
 
 
