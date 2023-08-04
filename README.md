@@ -15,7 +15,7 @@ I code in c++. Also open sourced few web related stuff.
 
 ## Things I am passionate about
 
-- WebDevelopment :Mysocial:
+- WebDevelopment :Mysocial
 - Open source :octocat
 
 <!--h2 without bottom border-->
