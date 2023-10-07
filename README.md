@@ -17,7 +17,7 @@ I code in c++. Also open sourced few web related stuff.
 
 - WebDevelopment :Mysocial
 - 
-- Open source : Octa''
+- Open source : Octa
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
