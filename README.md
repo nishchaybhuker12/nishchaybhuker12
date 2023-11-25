@@ -15,8 +15,8 @@ I code in c++. Also open sourced few web related stuff.
 
 ## Things I am passionate about
 
-- WebDevelopment :Mysocial;;
-- Open source : Octa;;
+- WebDevelopment :Mysocial
+- Open source : Octa
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
